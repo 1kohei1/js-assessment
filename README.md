@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/rmurphey/js-assessment.svg?branch=master)](https://travis-ci.org/rmurphey/js-assessment)
 
+# What's this?
+My own answer to Rebecca Murphey's [JS-assessment](https://github.com/rmurphey/js-assessment) exercise. You can find her solution [here](https://github.com/rmurphey/js-assessment-answers).
+
 # A test-driven JS assessment
 
 This repo includes a set of tests that can be used to assess the skills of
